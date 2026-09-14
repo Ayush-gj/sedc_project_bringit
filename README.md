@@ -116,10 +116,10 @@ This repository currently contains the initial project documentation. Developmen
 
 | Name | Roll Number | Role |
 |------|-------------|------|
-| Ayush Gupta | 2400290120078 | — |
-| Ayush Gupta | 2400290120079 | — |
-| Jahnvi Gupta | 2400290120123 | — |
-| Lakshya Jaiswal | 2400290120143 | — |
+| Ayush Gupta | 2400290120078 | Requirment Analyst |
+| Ayush Gupta | 2400290120079 | Developer & Researcher |
+| Jahnvi Gupta | 2400290120123 | Tester & Questionnaire|
+| Lakshya Jaiswal | 2400290120143 | Developer & Researcher |
 
 ---
 
