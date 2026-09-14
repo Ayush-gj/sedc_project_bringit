@@ -116,10 +116,10 @@ This repository currently contains the initial project documentation. Developmen
 
 | Name | Roll Number | Role |
 |------|-------------|------|
-| Team Member 1 | — | — |
-| Team Member 2 | — | — |
-| Team Member 3 | — | — |
-| Team Member 4 | — | — |
+| Ayush Gupta | 2400290120078 | — |
+| Ayush Gupta | 2400290120079 | — |
+| Jahnvi Gupta | 2400290120123 | — |
+| Lakshya Jaiswal | 2400290120143 | — |
 
 ---
 
